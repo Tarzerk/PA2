@@ -1,4 +1,4 @@
-//Jason Garza jcg170530 changes
+//Jason Garza jcg170530
 
 #include<stdio.h>
 #include<fcntl.h>
