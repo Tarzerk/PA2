@@ -1,0 +1,5 @@
+all: filecnt filedisp
+filecnt: filecnt.c version.c
+	gcc -o filecnt filecnt.c version.c
+filedisp: filedisp.c
+	gcc filedisp.c -o filedisp
